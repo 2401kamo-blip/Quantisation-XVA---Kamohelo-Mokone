@@ -1,4 +1,4 @@
-# Replication of Pang and Sturm, *XVA Valuation under Market Illiquidity*
+# Replication Study of Pang and Sturm, *XVA Valuation under Market Illiquidity via Quantisation, comparison with deep learning techniques*
 
 Base-R implementation of the numerical study of arXiv:2011.03543v1, solved with
 the deep BSDE method of E, Han and Jentzen (2017), the jump-augmented deep solver
